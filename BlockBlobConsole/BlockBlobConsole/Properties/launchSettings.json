@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BlockBlobConsole": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "local"
+      }
+    }
+  }
+}
