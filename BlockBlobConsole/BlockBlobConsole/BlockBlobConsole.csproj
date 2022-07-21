@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Azure.Storage.Blobs" Version="12.4.4" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.13.0" />
     <PackageReference Include="Azure.Storage.Common" Version="12.4.3" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.5" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="3.1.5" />
